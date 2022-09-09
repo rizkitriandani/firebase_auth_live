@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "497297376978",
+    "project_id": "firebase-auth-live",
+    "storage_bucket": "firebase-auth-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497297376978:android:f16c0a5be82fc6471c4f0b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497297376978-hviv375ur44gt25endfq1ds865hp41kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPCDA8iub4avm28PVWaRZAI2QZNSdDfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497297376978-hviv375ur44gt25endfq1ds865hp41kp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497297376978-e74el8oq9s9ffks801r8sseh8thq1fri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthLive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
